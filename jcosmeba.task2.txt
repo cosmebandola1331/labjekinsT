@@ -1,0 +1,168 @@
+Group - Joseph Cosme-Bandola, Brandon Espana, Tommy Pham - GITHUB REPO: 
+.:
+total 42
+drwxr-xr-x 3 Joseph Bandola Administrators     0 Feb  5 14:57 ${build}
+drwxr-xr-x 6 Joseph Bandola Administrators  4096 Feb  5 15:04 .
+drwxr-xr-x 3 Joseph Bandola Administrators     0 Feb  5 14:13 ..
+-rw-r--r-- 1 Joseph Bandola Administrators   278 Feb  5 14:37 .classpath
+-rw-r--r-- 1 Joseph Bandola Administrators    45 Feb  5 12:24 .gitignore
+-rw-r--r-- 1 Joseph Bandola Administrators   393 Feb  5 14:37 .project
+-rw-r--r-- 1 Joseph Bandola Administrators 14040 Feb  5 14:42 LabApp.jar
+-rw-r--r-- 1 Joseph Bandola Administrators    57 Feb  5 12:24 README.md
+-rw-r--r-- 1 Joseph Bandola Administrators 14040 Feb  5 14:31 app.jar
+drwxr-xr-x 3 Joseph Bandola Administrators     0 Feb  5 14:37 bin
+drwxr-xr-x 4 Joseph Bandola Administrators     0 Feb  5 14:41 build
+-rw-r--r-- 1 Joseph Bandola Administrators   177 Feb  5 15:03 build.properties
+-rw-r--r-- 1 Joseph Bandola Administrators  3364 Feb  5 14:56 build.xml
+-rw-r--r-- 1 Joseph Bandola Administrators     0 Feb  5 15:11 jcosmeba.task2.txt
+-rw-r--r-- 1 Joseph Bandola Administrators    69 Feb  5 12:24 my.properties
+drwxr-xr-x 3 Joseph Bandola Administrators     0 Feb  5 14:08 src
+
+./${build}:
+total 4
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:57 .
+drwxr-xr-x 6 Joseph Bandola Administrators 4096 Feb  5 15:04 ..
+drwxr-xr-x 2 Joseph Bandola Administrators    0 Feb  5 14:57 classes
+
+./${build}/classes:
+total 0
+drwxr-xr-x 2 Joseph Bandola Administrators 0 Feb  5 14:57 .
+drwxr-xr-x 3 Joseph Bandola Administrators 0 Feb  5 14:57 ..
+
+./bin:
+total 4
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:37 .
+drwxr-xr-x 6 Joseph Bandola Administrators 4096 Feb  5 15:04 ..
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:37 banking
+
+./bin/banking:
+total 4
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:37 .
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:37 ..
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:37 gui
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:37 primitive
+
+./bin/banking/gui:
+total 21
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:37 .
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:37 ..
+-rw-r--r-- 1 Joseph Bandola Administrators  891 Feb  5 14:37 Main.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1535 Feb  5 14:37 MainFrame$DepositHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 2168 Feb  5 14:37 MainFrame$DisplayHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators  593 Feb  5 14:37 MainFrame$FrameHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1599 Feb  5 14:37 MainFrame$NewAccountHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1099 Feb  5 14:37 MainFrame$SaveAccountsHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1545 Feb  5 14:37 MainFrame$WithdrawHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 3955 Feb  5 14:37 MainFrame.class
+
+./bin/banking/primitive:
+total 4
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:37 .
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:37 ..
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:37 core
+
+./bin/banking/primitive/core:
+total 20
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:37 .
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:37 ..
+-rw-r--r-- 1 Joseph Bandola Administrators 1182 Feb  5 14:37 Account$State.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1708 Feb  5 14:37 Account.class
+-rw-r--r-- 1 Joseph Bandola Administrators  601 Feb  5 14:37 AccountServer.class
+-rw-r--r-- 1 Joseph Bandola Administrators  753 Feb  5 14:37 AccountServerFactory.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1926 Feb  5 14:37 Checking.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1812 Feb  5 14:37 Savings.class
+-rw-r--r-- 1 Joseph Bandola Administrators 5440 Feb  5 14:37 ServerSolution.class
+
+./build:
+total 5
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:41 .
+drwxr-xr-x 6 Joseph Bandola Administrators 4096 Feb  5 15:04 ..
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:39 classes
+drwxr-xr-x 2 Joseph Bandola Administrators    0 Feb  5 14:39 doc
+-rw-r--r-- 1 Joseph Bandola Administrators   69 Feb  5 14:41 my.properties
+
+./build/classes:
+total 0
+drwxr-xr-x 3 Joseph Bandola Administrators 0 Feb  5 14:39 .
+drwxr-xr-x 4 Joseph Bandola Administrators 0 Feb  5 14:41 ..
+drwxr-xr-x 4 Joseph Bandola Administrators 0 Feb  5 14:39 banking
+
+./build/classes/banking:
+total 4
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:39 .
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:39 ..
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:39 gui
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:39 primitive
+
+./build/classes/banking/gui:
+total 19
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:39 .
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:39 ..
+-rw-r--r-- 1 Joseph Bandola Administrators  587 Feb  5 14:39 Main.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1171 Feb  5 14:39 MainFrame$DepositHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1458 Feb  5 14:39 MainFrame$DisplayHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators  361 Feb  5 14:39 MainFrame$FrameHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1263 Feb  5 14:39 MainFrame$NewAccountHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators  811 Feb  5 14:39 MainFrame$SaveAccountsHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1180 Feb  5 14:39 MainFrame$WithdrawHandler.class
+-rw-r--r-- 1 Joseph Bandola Administrators 3155 Feb  5 14:39 MainFrame.class
+
+./build/classes/banking/primitive:
+total 4
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:39 .
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:39 ..
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:39 core
+
+./build/classes/banking/primitive/core:
+total 18
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:39 .
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:39 ..
+-rw-r--r-- 1 Joseph Bandola Administrators  962 Feb  5 14:39 Account$State.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1296 Feb  5 14:39 Account.class
+-rw-r--r-- 1 Joseph Bandola Administrators  559 Feb  5 14:39 AccountServer.class
+-rw-r--r-- 1 Joseph Bandola Administrators  546 Feb  5 14:39 AccountServerFactory.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1452 Feb  5 14:39 Checking.class
+-rw-r--r-- 1 Joseph Bandola Administrators 1378 Feb  5 14:39 Savings.class
+-rw-r--r-- 1 Joseph Bandola Administrators 4110 Feb  5 14:39 ServerSolution.class
+
+./build/doc:
+total 0
+drwxr-xr-x 2 Joseph Bandola Administrators 0 Feb  5 14:39 .
+drwxr-xr-x 4 Joseph Bandola Administrators 0 Feb  5 14:41 ..
+
+./src:
+total 4
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:08 .
+drwxr-xr-x 6 Joseph Bandola Administrators 4096 Feb  5 15:04 ..
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:08 banking
+
+./src/banking:
+total 0
+drwxr-xr-x 4 Joseph Bandola Administrators 0 Feb  5 14:08 .
+drwxr-xr-x 3 Joseph Bandola Administrators 0 Feb  5 14:08 ..
+drwxr-xr-x 2 Joseph Bandola Administrators 0 Feb  5 14:08 gui
+drwxr-xr-x 3 Joseph Bandola Administrators 0 Feb  5 14:08 primitive
+
+./src/banking/gui:
+total 7
+drwxr-xr-x 2 Joseph Bandola Administrators    0 Feb  5 14:08 .
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:08 ..
+-rw-r--r-- 1 Joseph Bandola Administrators  721 Feb  5 12:24 Main.java
+-rw-r--r-- 1 Joseph Bandola Administrators 5891 Feb  5 12:24 MainFrame.java
+
+./src/banking/primitive:
+total 4
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:08 .
+drwxr-xr-x 4 Joseph Bandola Administrators    0 Feb  5 14:08 ..
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:15 core
+
+./src/banking/primitive/core:
+total 17
+drwxr-xr-x 2 Joseph Bandola Administrators 4096 Feb  5 14:15 .
+drwxr-xr-x 3 Joseph Bandola Administrators    0 Feb  5 14:08 ..
+-rw-r--r-- 1 Joseph Bandola Administrators 1935 Feb  5 12:24 Account.java
+-rw-r--r-- 1 Joseph Bandola Administrators 1483 Feb  5 12:24 AccountServer.java
+-rw-r--r-- 1 Joseph Bandola Administrators  407 Feb  5 12:24 AccountServerFactory.java
+-rw-r--r-- 1 Joseph Bandola Administrators 1523 Feb  5 12:24 Checking.java
+-rw-r--r-- 1 Joseph Bandola Administrators 1264 Feb  5 12:24 Savings.java
+-rw-r--r-- 1 Joseph Bandola Administrators 3164 Feb  5 12:24 ServerSolution.java
