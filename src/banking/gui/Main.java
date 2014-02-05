@@ -1,6 +1,7 @@
 package banking.gui;
 
 //this is a commment
+// this is another comment
 
 // STYLE
 import javax.swing.JFrame;
