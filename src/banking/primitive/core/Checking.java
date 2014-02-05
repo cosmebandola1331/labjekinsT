@@ -1,5 +1,5 @@
 package banking.primitive.core;
-
+//Comment for another issue
 public class Checking extends Account {
 
 	private static final long serialVersionUID = 11L;
